@@ -3,6 +3,9 @@
   "remote": {
     "https://deno.land/std@0.167.0/dotenv/mod.ts": "9846f28b263c0c793345d74939f69bf34b46446aa2450e070c10a2140064165a",
     "https://deno.land/std@0.167.0/dotenv/util.ts": "6cc392f087577a26a27f0463f77cc0c31a390aa055917099935b36eb2454592d",
+    "https://deno.land/std@0.216.0/dotenv/mod.ts": "0180eaeedaaf88647318811cdaa418cc64dc51fb08354f91f5f480d0a1309f7d",
+    "https://deno.land/std@0.216.0/dotenv/parse.ts": "a49ed243bd62ec26f38614042cda4e5e3a47b18337c93b0f9f8556a5c918884b",
+    "https://deno.land/std@0.216.0/dotenv/stringify.ts": "0047ad7068289735d08964046aea267a750c141b494ca0e38831b89be6c020c2",
     "https://deno.land/x/discordeno@17.1.0/bot.ts": "2c25a025326b40af18ebc7e16497b49efe84fac5121ab706f9312670583c29c5",
     "https://deno.land/x/discordeno@17.1.0/gateway/manager/calculateTotalShards.ts": "2d2ebe860861d58524416446426d78e5b881c17b3a565ea4822c67f5534214bc",
     "https://deno.land/x/discordeno@17.1.0/gateway/manager/calculateWorkerId.ts": "44c46f2977104a5f92cc21cf31d6b2bc5dcfcefba23495cd619dbdf074a00af1",
