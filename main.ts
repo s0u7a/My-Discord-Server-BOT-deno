@@ -18,5 +18,12 @@ bot.events.messageCreate = (b, message) => {
         })
     }
 }
+bot.events.messageCreate = (b, message) => {
+    if (message.content === "!Callminto") {
+        b.helpers.sendMessage(message.channelId, {
+            content: "<@612479046919520275>",
+        })
+    }
+}
 
 await startBot(bot)
